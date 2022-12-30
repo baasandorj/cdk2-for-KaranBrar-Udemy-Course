@@ -4,5 +4,6 @@ This repo for helping for converting the codes of the Karan Bar Udemy "Ultimate 
 
 The course link is here: <https://www.udemy.com/course/aws-devops-professional-cdk-serverless/>  
 
-History:  
-2022-12-29 Converted except CDN and Route53 stacks' codes  
+## History
+
+2022-12-29: Converted except CDN and Route53 stacks' codes  
